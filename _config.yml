@@ -1,6 +1,20 @@
-title: Minimal theme
+title: <p align="center"> Zaw Tun </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/zawintun/">LinkedIn</a> |
+  <a href="https://github.com/zaw-tun">GitHub</a>
+  
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time ESG data.
+  Looking for oppotutnities to work in Big Data Analytics team.
+  Working in Energy domain for 3 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
